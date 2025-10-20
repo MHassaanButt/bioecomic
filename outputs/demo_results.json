@@ -1,0 +1,79 @@
+{
+  "success": true,
+  "status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+  "objective": 851222.4841269841,
+  "by_household": {
+    "HFR": {
+      "revenue_breakdown": {
+        "crops": 0.0,
+        "livestock": 163395.23809523808,
+        "off_farm_wage": 0.0
+      },
+      "cost_breakdown": {
+        "crop_inputs": 704.5079365079365,
+        "livestock_costs": 40848.80952380952,
+        "hired_labor_cost": 9600.0
+      }
+    },
+    "HMR": {
+      "revenue_breakdown": {
+        "crops": 0.0,
+        "livestock": 178221.42857142858,
+        "off_farm_wage": 0.0
+      },
+      "cost_breakdown": {
+        "crop_inputs": 723.047619047619,
+        "livestock_costs": 44555.357142857145,
+        "hired_labor_cost": 10400.0
+      }
+    },
+    "MFIR": {
+      "revenue_breakdown": {
+        "crops": 0.0,
+        "livestock": 222700.0,
+        "off_farm_wage": 0.0
+      },
+      "cost_breakdown": {
+        "crop_inputs": 778.6666666666666,
+        "livestock_costs": 55675.0,
+        "hired_labor_cost": 12800.0
+      }
+    },
+    "MMR": {
+      "revenue_breakdown": {
+        "crops": 0.0,
+        "livestock": 222700.0,
+        "off_farm_wage": 0.0
+      },
+      "cost_breakdown": {
+        "crop_inputs": 778.6666666666666,
+        "livestock_costs": 55675.0,
+        "hired_labor_cost": 12800.0
+      }
+    },
+    "MMIR": {
+      "revenue_breakdown": {
+        "crops": 0.0,
+        "livestock": 242004.7619047619,
+        "off_farm_wage": 0.0
+      },
+      "cost_breakdown": {
+        "crop_inputs": 852.8253968253969,
+        "livestock_costs": 60501.19047619047,
+        "hired_labor_cost": 14400.0
+      }
+    },
+    "MFR": {
+      "revenue_breakdown": {
+        "crops": 0.0,
+        "livestock": 208047.61904761905,
+        "off_farm_wage": 0.0
+      },
+      "cost_breakdown": {
+        "crop_inputs": 741.5873015873016,
+        "livestock_costs": 52011.90476190476,
+        "hired_labor_cost": 12000.0
+      }
+    }
+  }
+}

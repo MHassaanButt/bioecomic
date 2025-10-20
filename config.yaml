@@ -1,0 +1,4 @@
+demo_mode: false
+min_kcal_per_person_per_day: 2000
+days_per_year: 365
+include_livestock_purchase_as_cost: false

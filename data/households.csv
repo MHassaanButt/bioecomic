@@ -1,0 +1,7 @@
+name,n_households,adult_equiv,labor_endowment,land_available,max_hired_labor
+HFR,100,3.8,220,0.8,120
+HMR,100,3.9,240,1.0,130
+MFIR,100,4.2,300,1.2,160
+MMR,100,4.2,300,1.2,160
+MMIR,100,4.6,320,1.5,180
+MFR,100,4.0,280,1.0,150
