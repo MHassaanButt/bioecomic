@@ -1,0 +1,5 @@
+name,calorie_per_kg,yield_per_ha,price_sale,seed_cost_per_ha,fert_cost_per_ha,chem_cost_per_ha,labor_req_per_ha,storage_cost_per_kg,max_storage_kg,spoilage_rate
+maize,3600,3500,5.0,800,1800,600,60,1,500,0.05
+wheat,3200,3000,6.0,700,1600,500,50,1,400,0.04
+rice,4000,4000,7.0,900,2000,700,80,1,600,0.03
+beans,3400,1500,8.0,900,700,400,70,2,300,0.06

@@ -1,0 +1,7 @@
+scenario,variant,total_NPV
+baseline,no_policy,1499460.7077894225
+baseline,policy_fert_subsidy,1526631.9835308488
+drought,no_policy,1429480.6927631267
+drought,policy_fert_subsidy,1456651.9685045525
+fert_shock,no_policy,1454175.2482203792
+fert_shock,policy_fert_subsidy,1494932.1618325184
